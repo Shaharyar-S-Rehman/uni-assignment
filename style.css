@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.one{
+    margin: 10% 30% 0 30%;
+    background-color: rgb(216, 231, 7);
+    color: purple;
+    width: 35%;
+}
+.nav{
+    border-right: 20px solid black;
+    width: 150px ;
+    height: 20px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 18px;
+    color: blue;
+    background-color: white;
+
+}
+.border{
+    border-bottom: 2px dotted purple
+}
+.right {
+    
+    position: relative;
+    bottom: 80px;
+    left: 50%;
+    width: 200px;
+    background-color: rgb(216, 231, 7);
+}
+.left{
+    position: relative;
+    top: 100px;
+    left: 15%;
+    width: 20%;
+    /* margin-right: 800px; */
+    font-size: 15px;
+    margin-bottom: 20px;
+    background-color: rgb(216, 231, 7);
+}
